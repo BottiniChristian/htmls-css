@@ -14,10 +14,11 @@
        }
        #Prima.parte {
               color: darkorange;
+              text-align: center;
         }
        main li { 
          font-size: 0.8em;
-         text-align: left;
+         text-align: center;
          margin: 0.1%;
          color: black;
         }
@@ -25,12 +26,15 @@
             color: aqua;
             padding-left: 0.1px;
             padding-right: 0.1px;
+            text-align: center;
          }
          main { 
             background-color: beige;
+            text-align: center;
          }
          footer { 
              font-size: 0.6em;
+             text-align: center;
           }
     </style>
 </head>
