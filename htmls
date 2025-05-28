@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>Ricette per le Zuppe</title>
+    <style>
+        h1 {
+            text-align: center;
+            color: crimson;
+        }
+      header p, img {
+        text-align: center;
+
+       }
+       #Prima.parte {
+              color: darkorange;
+        }
+       main li { 
+         font-size: 0.8em;
+         text-align: left;
+         margin: 0.1%;
+         color: black;
+        }
+        #Linea { 
+            color: aqua;
+            padding-left: 0.1px;
+            padding-right: 0.1px;
+         }
+         main { 
+            background-color: beige;
+         }
+         footer { 
+             font-size: 0.6em;
+          }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ricette per fare una Zuppa</h1>
+        <p>Per preparare una zuppa dignitosa bisogna avere degli ottimi ingredienti e un ottimo libro di cucina</p>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.giallozafferano.it%2Fidolciditatam%2Fricette-di-cucina-le-zuppe%2F&psig=AOvVaw0jfcWkNR8Hjv-fZDn9tjeA&ust=1748524418473000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDW9Zmfxo0DFQAAAAAdAAAAABAE" alt= "foto delle zuppe">
+
+    </header>
+    <main>
+        <section>
+    <h3 id="Prima.parte">Per altre Ricette:</h3>
+<li><a href="https://www.cookist.it/zuppe-e-minestre-ricette/"></a>Ricettario Completo<li>
+    <h2>Ingredienti</h2>
+    <h3>Ricetta Tradizionale:</h3>
+    <p id="linea">_________________________________________________________________________________________________</p>
+    <ul>
+        <li>pentola per bollire l'acqua,(altezza dell'acqua a metà pentola) </li>
+        <li>verudre da bollire all'interno,(broccoli, spinaci, funghi, ecc...)</li>
+        <li>per chi possa piacere si può anche aggiungere il pollo</li>
+    </ul>
+    <section>
+        <section>
+    <h3>Spezie:</h3>
+    <ul>
+       <li>sale</li>
+       <li>olio extra vergine d'oliva</li>
+       <li>pepe</li>
+       <li>aceto balsamico</li>
+    </ul>
+    <section>
+        <section>
+        <h2>Cottura:</h2>
+        <p id="linea">_________________________________________________________________________________________________</p>
+    <ol>
+        <li>far bollire l'acqua finché non bolle, (con dentro le verdure)</li>
+        <li>allo stesso tempo cuocere il pollo in una padella diversa con dell'olio e del pepe</li>
+        <li>aggiungi del sale quando inizia a bollire l'acqua</li>
+        <li>dopodichè inserisci olio all'interno a metà cottura</li>
+        <li>alla fine aggiungere il pollo e l'aceto balsamico</li>
+    </ol>
+    <section>
+    </main>
+    <footer>Copyright Blog delle Zuppe-2025</footer>
+</body>
+</html>
